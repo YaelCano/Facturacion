@@ -1,4 +1,6 @@
 Api Tienda
+
+
 En los archivo usuario.js, producto.js, factura.js contiene como:
 
 mostrar GET
